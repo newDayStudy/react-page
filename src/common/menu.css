@@ -15,11 +15,11 @@
     top: 0;
     left: 0;
     z-index: 11;
-    min-width: 160px;
+    width: 200px;
     height: 100vh;
     background-color: #001529;
 }
 
 .content{
-    padding: 10px 10px 10px 170px;
+    padding: 10px 10px 10px 210px;
 }
