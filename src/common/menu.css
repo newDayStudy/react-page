@@ -1,0 +1,25 @@
+.container-wrap{
+
+}
+.header{
+    color: #fff;
+    height: 60px;
+    line-height: 60px;
+    font-size: 24px;
+    text-align: center;
+    background-color: #002245;
+    text-shadow: 2px 2px 2px #fff;
+}
+.menu{
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 11;
+    min-width: 160px;
+    height: 100vh;
+    background-color: #001529;
+}
+
+.content{
+    padding: 10px 10px 10px 170px;
+}
